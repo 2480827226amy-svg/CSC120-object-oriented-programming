@@ -1,0 +1,1 @@
+At first, we didn't follow the instruction of constructor that we can not add more parameter. At this time, we changed the constructor by removing all of the new paramters we created and directly storing in the attributes(eg. transcript, replies, detectedWords, and changeWord).
